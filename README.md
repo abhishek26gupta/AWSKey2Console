@@ -1,7 +1,7 @@
 # AWSKey2Console
 A simple Python script that can log you into the aws console just with your access key and secret key. Get GUI from CLI ;)
 
-###Steps to run
+### Steps to run
 1. Install the AWS CLI if not already installed. (Verify it by "aws --version")
 2. Configure the aws credential to your default profile
 3. Run "aws configure" and enter the secret key and access key leave the other fields intact
